@@ -1,3 +1,8 @@
+"""
+gives out the least amount of change depending on the user's monetary input and stock
+"""
+
+
 import math
 nickels = 25
 dimes = 25
